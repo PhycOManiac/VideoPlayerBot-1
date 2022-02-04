@@ -1,6 +1,6 @@
 TgCrypto
 requests
-youtube_dl
+git+https://github.com/ophexor/yt-dl@master
 ffmpeg-python
 python-dotenv
 youtube_search_python
